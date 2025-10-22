@@ -78,5 +78,3 @@ This project is licensed under the MIT License — see the `LICENSE` file for de
 
 SPDX-License-Identifier: MIT
 =======
-# TCP_PortScanner
->>>>>>> origin/main
