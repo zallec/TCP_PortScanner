@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Async TCP Port Scanner
+# Port Scanner
 
 Small and simple asyncio-based TCP port scanner written in Python. It performs concurrent TCP connect scans against one or more hosts and can optionally attempt to grab small service banners (including a simple HTTP probe for common HTTP ports). I am a student that was trying to learn more about port scanners, so there is not much here, but any comments would be greatly appreciated.
 
@@ -18,8 +17,6 @@ This repository contains:
 ## Requirements
 
 - Python 3.8+ (asyncio.run is used)
-
-No external dependencies.
 
 ## Safety & Legal
 
@@ -75,6 +72,3 @@ Contributions are welcome. By submitting an issue or pull request you agree to l
 ## License
 
 This project is licensed under the MIT License — see the `LICENSE` file for details.
-
-SPDX-License-Identifier: MIT
-=======
